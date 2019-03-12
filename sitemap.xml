@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//sopa.umarquez.com/categories/</loc>
+    <loc>//hugo.umarquez.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//sopa.umarquez.com/</loc>
+    <loc>//hugo.umarquez.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//sopa.umarquez.com/tags/</loc>
+    <loc>//hugo.umarquez.com/tags/</loc>
     <priority>0</priority>
   </url>
   
