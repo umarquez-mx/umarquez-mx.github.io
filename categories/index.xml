@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sopa de lata</title>
-    <link>https://sopa.umarquez.com/categories/</link>
+    <link>//sopa.umarquez.com/categories/</link>
     <description>Recent content in Categories on Sopa de lata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
     
-	<atom:link href="https://sopa.umarquez.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//sopa.umarquez.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
